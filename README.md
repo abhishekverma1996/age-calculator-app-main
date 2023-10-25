@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/abhishekverma1996/age-calculator-app-main/screenshot.png)
+![](https://github.com/abhishekverma1996/age-calculator-app-main/blob/main/screenshot.png)
 
 
 ### Links
